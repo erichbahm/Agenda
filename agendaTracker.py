@@ -12,7 +12,7 @@ activityCategories = {}
 completedActions = {}
 allFilesContent = []
 sortedFilesContent = []
-numDaysShown = 8
+numDaysShown = 6
 acbeMdFile = []
 acCategory = []
 acActivity = []
@@ -102,7 +102,7 @@ def categorizeLine(someStr, mdNum):
     if someStr[0:5] == '- [ ]':
         #IS AN INCOMPLETE ACTIVITY
         # print(someStr[7:13])
-        if dateToNum(someStr[7:13]) <= currentDate + int(numDaysShown):
+        if dateToNum(someStr[7:13]) <= currentDate + int(numDaysShown) and dateToNum(someStr[7:13]) >= currentDate - 6 * int(numDaysShown):
             if len(someStr) > 15:
                 if someStr[15] == '*' and someStr[16] != '*':
                     return
