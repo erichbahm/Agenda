@@ -1,0 +1,41 @@
+<u>Scholarships</u>
+
+- [x] ~~(Feb 28) Blackford & Flohr (https://bflawmd.com/blackford-flohr-annual-legal-studies-scholarship/)~~
+- [x] ~~(Feb 28) Nuclear Family (https://www.davidgordonlaw.com/2022-nuclear-family-scholarship/)~~
+- [x] ~~(Feb 28) Car HP (https://www.carhp.com/news/all-american-1000-car-review-essay-scholarship)~~
+- May involve a meeting with each professor to introduce myself better
+- May involve a cover letter / follow up email to add further infromation
+- Requires knowledge on scholarships I am applying to (date, scholarship goals, etc)
+- [x] (Feb 28) Letters of Recommendation - Astronaut ~~& AFT & SAME~~ (Yunfeng Shi?, Diagne Mamadou?, Glenn Ciolek?, counselor?, John Szczesniak?)
+- [x] ~~(Mar 01) AWS (https://www.aws.org/foundation/page/scholarships)~~
+- [x] ~~(Mar 01) AFT (https://www.aft.org/member-benefits/education-learning-opportunities/scholarships)~~
+- [x] (Mar 01) AWS https://scholarship.aws.org/applications/main.asp (Matsuo Bridge, Robert G & Annette Pali, Jack and Jo Dammann)
+- [x] (Mar 02) 10000 Degrees (https://www.10000degrees.org/10kd-scholarships/)
+- [x] ~~(Mar 04) Knights of Pythias (https://daytonfoundation.academicworks.com/opportunities/6975)~~
+- [x] ~~(Mar 08) SEMA (https://sites.sema.org/scholarships/)~~
+- [x] (Mar 09) ~~**SAME** (http://www.samesacramento.org/committees_scholarship.shtml)~~
+- [x] (Mar 14) ~~**McKinney Writing Contest (https://info.rpi.edu/mckinney)**~~
+- [x] ~~(Mar 15) ABPA (https://www.abpa.org/page/Scholarship)~~
+- [x] ~~(Mar 20) Sleep (https://www.mattressadvisor.com/sleep-scholarships/)~~
+- [x] ~~(Mar 21) TMC/SAE https://www.sae.org/participate/scholarships/tmc-sae-donald-d-dawson-technical-scholarship~~
+- [x] ~~(Mar 30) Astronaut (https://www.astronautscholarship.org/scholarshipprogram.html)~~
+- [x] ~~(Mar 31) Sleepare (https://www.sleepare.com/us/scholarship/)~~
+- [x] ~~(Mar 31) AGA https://galvanizeit.org/education-and-resources/education/university-program/scholarship~~
+- [x] ~~(Mar 31) BL (https://burgerlaw.com/when-i-grow-up-scholarship/)~~
+- [x] ~~(Mar 31) Iseecars (https://www.iseecars.com/scholarship)~~
+- [x] ~~(Mar 31) Montem (https://montemlife.com/scholarship/)~~
+- [x] ~~(Mar 31) Pinnacle (https://www.pinnaclemanagement.com/project-management-scholarship)~~
+- [x] ~~(Apr 01) **Educational Trust** (http://theeducationaltrust.org/)~~
+- [x] ~~(Mar 31) True Eyes (https://trueeye.com/scholarship-program/)~~
+- [x] ~~(Apr 15) PEN Essay (https://pen.org/free-expression-advocacy-institutes/free-expression-essay-competition/)~~
+- [x] ~~(Apr 15) SEANC (https://www.seanc.org/scholarship-apply)~~
+- [x] ~~(Apr 22) Jumpstart (http://www.jumpstart-scholarship.net/application-us/)~~
+- [x] ~~(Apr 30) Ewaste (http://www.digitalresponsibility.org/ewaste-scholarship)~~
+- [x] ~~(Apr 30) IWSH (https://www.iwsh.org/hidden/iwsh-essay-scholarship-contest/)~~
+- [x] ~~(May 01) Find Answering Service (https://findansweringservice.com/connectivity-scholarship/)~~
+- [x] ~~(May 01) PMI (https://www.pmi.org/learning/academic-research/academic-scholarships)~~
+- [x] ~~(Jun 01) John A. Moore (https://sicb.org/the-john-a-moore-lectureship/)~~
+- [x] ~~(Jul 01) Goldwater (https://goldwaterscholarship.gov/)~~
+- [x] ~~(Aug 01) Olin E. Teague (https://www.spaceclub.org/education/olin-teague.html)~~
+- [x] ~~(Sep 25) Mattress Help (https://mattresshelp.org/scholarship/)~~
+- [x] ~~(Oct 30) State of Sleep (https://www.thesleepjudge.com/scholarship/)~~

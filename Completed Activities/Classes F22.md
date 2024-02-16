@@ -1,0 +1,160 @@
+<u>ENGR 1600</u>
+
+- [x] (Sep 09) Activity 1
+- [x] (Sep 11) HW 1
+- [x] (Sep 16) Activity 2
+- [x] (Sep 16) Activity 3
+- [x] (Sep 18) HW 2
+- [x] (Sep 23) Activity 4
+- [x] (Sep 23) **Lab 1**
+- [x] (Sep 25) HW 3
+- [x] (Sep 28) **EXAM 1**
+- [x] (Sep 30) Activity 5
+- [x] (Oct 02) HW 4
+- [x] (Oct 02) HW 5
+- [x] (Oct 07) Activity 6
+- [x] (Oct 09) HW 6
+- [x] (Oct 14) Activity 7
+- [x] (Oct 16) HW 7A
+- [x] (Oct 21) Lab 2
+- [x] (Oct 23) HW 7B
+- [x] (Oct 23) HW 7C
+- [x] (Oct 26) **EXAM 2**
+- [x] (Oct 30) HW 8A
+- [x] (Nov 04) Lab 3
+- [x] (Nov 06) HW 8B
+- [x] (Nov 06) HW 8C
+- [x] (Nov 06) HW 8D
+- [x] (Nov 11) Lab 4
+- [x] (Nov 13) HW 9
+- [x] (Nov 18) Activity 8
+- [x] (Nov 27) HW 10
+- [x] (Nov 29) Review Lectures 16-24
+- [x] (Nov 30) **EXAM 3**
+- [x] (Dec 02) Lab 5
+- [x] (Dec 04) HW 11
+- [x] (Dec 09) Activity 9
+- [x] (Dec 09) Lab 6
+- [x] (Dec 11) HW 12
+- [x] (Dec 15) **FINAL EXAM**
+
+<u>ENGR 2600</u>
+
+- [x] (Sep 14) **EXAM 1**
+- [x] (Sep 28) **EXAM 2**
+- [x] (Oct 19) **EXAM 3**
+- [x] (Nov 02) **Project 1**
+- [x] (Nov 09) **EXAM 4**
+- [x] (Dec 07) ~~**Project 2**~~
+- [x] (Dec 15) **FINAL EXAM** 
+
+<u>MANE 2710</u>
+
+- [x] (Sep 02) Quiz 1 (5 pm
+- [x] (Sep 09) Quiz 2 (5 pm)
+- [x] (Sep 09) HW 1 (8 pm)
+- [x] (Sep 13) Quiz 3 (5 pm)
+- [x] (Sep 16) Quiz 4 (5 pm)
+- [x] (Sep 16) HW 2 (8 pm)
+- [x] (Sep 20) Quiz 5 (5 pm)
+- [x] (Sep 23) Quiz 6 (5 pm)
+- [x] (Sep 23) HW 3 (8 pm)
+- [x] (Sep 27) Quiz 7 (5 pm)
+- [x] (Sep 30) Quiz 8 (5 pm)
+- [x] (Sep 30) HW 4 (8 pm)
+- [x] (Oct 04) Quiz 9 (5 pm)
+- [x] (Oct 04) **EXAM 1**
+- [x] (Oct 11) Quiz 10 (5 pm)
+- [x] (Oct 11) HW 5 (8 pm)
+- [x] (Oct 14) Quiz 11 (5 pm)
+- [x] (Oct 18) Quiz 12 (5 pm)
+- [x] (Oct 21) HW 6 (8 pm)
+- [x] (Oct 21) Quiz 13 (5 pm)
+- [x] (Oct 25) Quiz 14 (5 pm)
+- [x] (Oct 28) Quiz 15 (5 pm)
+- [x] (Oct 28) **EXAM 2**
+- [x] (Nov 01) HW 7 (8 pm)
+- [x] (Nov 08) HW 8 (8 pm)
+- [x] (Nov 11) HW 9 (8 pm)
+- [x] (Nov 14) Quiz 16 (5 pm)
+- [x] (Nov 18) Quiz 18 (5 pm)
+- [x] (Nov 18) HW 10 (8 pm)
+- [x] (Nov 22) **EXAM 3**
+- [x] (Nov 29) Quiz 19 (5 pm)
+- [x] (Dec 06) Gradescope HW 11
+- [x] (Dec 07) Wiley+ HW 11
+- [x] (Dec 09) Gradescope HW 12
+- [x] (Dec 09) Wiley+ HW 12
+- [x] (Dec 14) **Wiley+ Quiz 3-17**
+- [x] (Dec 14) **Wiley+ HW 1-7**
+- [x] (Dec 15) **FINAL EXAM**
+
+<u>ENGR 4010</u>
+
+- [x] (Sep 13) HW 1
+- [x] (Sep 19) Community agreement
+- [x] (Sep 20) Prepare Elevator Pitch
+- [x] (Sep 30) Reflection Assignment 1
+- [x] (Oct 25) Group Presentation
+- [x] (Nov 15) **EXAM 1**
+- [x] (Dec 06)  Group assessment rough draft
+- [x] (Dec 09) **Final Group Assessment**
+
+<u>ENGR 2530</u>
+
+- [x] (Sep 04) SB 1.1-1.2
+- [x] (Sep 06) SB 1.2-1.5
+- [x] (Sep 09) HW 1 (2 pm)
+- [x] (Sep 09) Connect 1 (2 pm)
+- [x] (Sep 11) SB 2.1
+- [x] (Sep 15) SB 2.2
+- [x] (Sep 18) SB 2.3-2.5
+- [x] (Sep 20) HW 2A (2 pm)
+- [x] (Sep 20) Connect 2A (2 pm)
+- [x] (Sep 21) SB 2.6-2.8, 2.9-2.11
+- [x] (Sep 25) SB 3.1
+- [x] (Sep 27) HW 2B (2 pm)
+- [x] (Sep 27) Connect 2B (2 pm)
+- [x] (Sep 28) SB 3.2-3.3
+- [x] (Oct 02) SB 3.3-3.5
+- [x] (Oct 02) Read missed lecture
+- [x] (Oct 04) Review Lectures
+- [x] (Oct 04) HW 3 (2 pm)
+- [x] (Oct 04) Connect 3 (2 pm)
+- [x] (Oct 05) **EXAM 1**
+- [x] (Oct 05) SB A1-A4
+- [x] (Oct 09) SB 4.1-4.2
+- [x] (Oct 12) SB 4.4-4.5, 4.7
+- [x] (Oct 14) HW 4A (2 pm)
+- [x] (Oct 14) Connect 4A (2 pm)
+- [x] (Oct 16) SB 4.9, 5.1
+- [x] (Oct 19) SB 5.2-5.3
+- [x] (Oct 21) HW 4B (2 pm)
+- [x] (Oct 21) Connect 4B (2 pm)
+- [x] (Oct 23) SB 5.4
+- [x] (Oct 26) SB 6.1
+- [x] (Oct 28) HW 5 (2 pm)
+- [x] (Oct 28) Connect 5 (2 pm)
+- [x] (Oct 30) SB 6.3-6.4
+- [x] (Nov 02) SB 7.1-7.2
+- [x] (Nov 04) HW 6 (2 pm)
+- [x] (Nov 04) Connect 6 (2 pm)
+- [x] (Nov 06) SB 7.2
+- [x] (Nov 09) SB 7.3-7.6
+- [x] (Nov 11) HW 7 (2 pm)
+- [x] (Nov 11) Connect 7 (2 pm)
+- [x] (Nov 13) SB 8.1-8.2
+- [x] (Nov 16) **EXAM 2**
+- [x] (Nov 16) SB 8.2
+- [x] (Nov 20) SB 8.3
+- [x] (Nov 22) HW 8 (2 pm)
+- [x] (Nov 22) Connect 8 (2 pm)
+- [x] (Nov 23) SB 9.1-9.2
+- [x] (Nov 30) SB 9.3-9.4
+- [x] (Dec 04) SB 10.1
+- [x] (Dec 06) HW 9 (2 pm)
+- [x] (Dec 06) Connect 9 (2 pm)
+- [x] (Dec 07) SB 10.1, 10.3
+- [x] (Dec 09) HW 10 (2 pm)
+- [x] (Dec 09) Connect 10 (2 pm)
+- [x] (Dec 14) **FINAL EXAM**

@@ -1,0 +1,32 @@
+<u>Scholarships</u>
+
+- [ ] (Sep 04) ~~Hermance Hybrid (https://www.fsaeonline.com/cdsweb/app/NewsItem.aspx?NewsItemID=4587d59d-ec15-4b91-833d-f4a8e7539e26)~~
+- [x] (Sep 24) ~~NSC (https://www.spaceclub.org/scholarship/index.html)~~
+- [x] (Sep 30) ~~Smart (https://www.smartscholarship.org/smart)~~
+- [x] (Oct 08) ~~IDPS (https://www.acui.org/awards/scholarships/chuck-morrell-new-professional-ipds-scholarship)~~
+- [x] (Oct 16) ~~ASDT (https://www.asnt.org/MajorSiteSections/About/Awards/Undergraduate)~~
+- [x] (Dec 23) Fly Rides (https://flyridesusa.com/pages/fly-rides-scholarship)
+- [x] (Dec 31) iVein (https://www.ivein.com/scholarship/)
+- [x] (Dec 29) SUVCL (https://suvchicagolimo.com/scholarship/)
+- [x] (Dec 02) ~~Edward S. Drake (https://www.acui.org/awards/scholarships/edward-s-beanie-drake-founders'-award#39;-award)~~
+- [x] (Dec 02) ~~Greer Dawson Wilson (https://www.acui.org/awards/scholarships/greer-dawson-wilson-scholarship)~~
+- [x] (Nov 20) ~~Deborah Christie (https://www.sprinklerwarehouse.com/scholarship)~~
+- [x] (Dec 01) ~~Rustica (https://rustica.com/rustica-scholarship/)~~
+- [x] (Dec 01) ~~PCB Solutions (https://pcb-solutions.com/scholarship/)~~
+- [x] (Dec 03) ~~**Smart Rain** (https://smartrain.net/scholarship/)~~
+- [x] (Dec 02) ~~Manny Cunard (https://www.acui.org/awards/scholarships/manny-cunard-scholarship)~~
+- [x] (Dec 02) ~~Meg Sutton (https://www.acui.org/awards/scholarships/meg-sutton-i-lead-scholarship)~~
+- [x] (Dec 02) ~~Adell McMillan (https://www.acui.org/awards/scholarships/adell-mcmillan-memorial-scholarship)~~
+- [x] (Jan 31) ~~I have a dream (https://www.unigo.com/scholarships/our-scholarships/i-have-a-dream-scholarship/)~~
+- [x] (Feb 01) ~~DAR (https://www.dar.org/national-society/scholarships)~~
+- [x] (Feb 01) SME ~~(https://scholarships.smeef.org/applications/main.asp)~~
+- [x] (Feb 06) ~~LoR - ASME~~
+- [x] (Feb 06) ~~LoR - VFF~~
+- [x] (Feb 10) ~~**ASME** (https://www.asme.org/asme-programs/students-and-faculty/scholarships/4-year-baccalaureate-graduate-students)~~
+- [x] (Feb 13) 2 LoR - Diagne, Mills, Mike Fil, Paul Ioanidis SAME (http://www.samesacramento.org/committees/scholarship/2023-same-sac-post-scholarship-application-packet.pdf)
+- [x] (Feb 20) ~~**FSAE** (https://saescholarships.awardsplatform.com/entry/entrant)~~
+- [x] (Feb 26) ~~**SAME** (http://www.samesacramento.org/committees/scholarship/2023-same-sac-post-scholarship-application-packet.pdf) (http://www.samesacramento.org/)~~
+- [x] (Mar 04) ~~VFF (https://vtol.org/education/vertical-flight-foundation-scholarships/vff-scholarship-application-process#process)~~
+- [x] (Mar 11) ~~McKinney Writing Contest~~
+- [x] (Mar 11) ~~LM (www.Lockheedmartin.com/scholarship)~~
+- [x] (Mar 30) ~~Educational Trust (http://theeducationaltrust.org/)~~

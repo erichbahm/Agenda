@@ -1,0 +1,205 @@
+# Class To-Do List
+
+## Week
+
+<u>PHYS 1100</u>
+- [x] (Oct 14) 7.40
+- [ ] (Oct 14) MP 12
+- [ ] (Oct 14) Activity 12
+
+<u>MATH 1020</u>
+- [x] (Oct 11) W 11.4
+- [ ] (Oct 12) RW 6
+- [ ] (Oct 12) Recitation 6
+- [ ] (Oct 15) W 12.1
+
+<u>ENGR 1100</u>
+- [x] (Oct 11) ME 12
+- [ ] (Oct 14) ME 13
+
+<u>IHSS 1200</u>
+
+<u>ENGR 1200</u>
+- [x] (Oct 08) LN 6
+- [ ] (Oct 15) LN 7
+- [ ] (Oct 15) LA 7
+
+
+
+
+## Semester
+
+<u>PHYS 1100</u>
+- [ ] (Oct 18) 8.14
+- [ ] (Oct 18) MP 13
+- [ ] (Oct 18) Activity 13
+- [ ] (Oct 21) 8.80
+- [ ] (Oct 21) MP 14
+- [ ] (Oct 21) Activity 14
+- [ ] (Oct 25) 9.24
+- [ ] (Oct 25) MP 15
+- [ ] (Oct 25) Activity 15
+- [ ] (Oct 28) 9.62
+- [ ] (Oct 28) MP 16
+- [ ] (Oct 28) Activity 16
+- [ ] (Nov 01) 10.63
+- [ ] (Nov 01) MP 17
+- [ ] (Nov 02) **EXAM 2**
+- [ ] (Nov 04) Activity 18
+- [ ] (Nov 08) 10.24
+- [ ] (Nov 08) MP 18
+- [ ] (Nov 08) Activity 19
+- [ ] (Nov 11) 10.48
+- [ ] (Nov 11) MP 19
+- [ ] (Nov 11) Activity 20
+- [ ] (Nov 15) 11.22
+- [ ] (Nov 15) MP 20
+- [ ] (Nov 15) Activity 21
+- [ ] (Nov 18) 13.18
+- [ ] (Nov 18) MP 21
+- [ ] (Nov 18) Activity 22
+- [ ] (Nov 22) 14.8
+- [ ] (Nov 22) MP 22
+- [ ] (Nov 22) Activity 23
+- [ ] (Nov 29) 15.4
+- [ ] (Nov 29) MP 23
+- [ ] (Nov 29) Activity 24
+- [ ] (Dec 02) 15.59
+- [ ] (Dec 02) MP 24
+- [ ] (Dec 02) Activity 25
+- [ ] (Dec 06) 16.62
+- [ ] (Dec 06) MP 25
+- [ ] (Dec 07) **EXAM 3**
+- [ ] (??? ??) **FINAL**
+
+<u>MATH 1020</u>
+- [ ] (Oct 18) W  12.2-12.3
+- [ ] (Oct 19) RW 7
+- [ ] (Oct 19) Recitation 7
+- [ ] (Oct 22) W 12.4-12.5
+- [ ] (Oct 25) W 13.1
+- [ ] (Oct 26) RW 8
+- [ ] (Oct 26) Recitation 8
+- [ ] (Oct 29) W 13.2-13.3
+- [ ] (Nov 01) W 13.4
+- [ ] (Nov 02) RW 9
+- [ ] (Nov 02) Recitation 9
+- [ ] (Nov 05) W 10.1-10.2
+- [ ] (Nov 05) **EXAM 2**
+- [ ] (Nov 08) W 10.3
+- [ ] (Nov 09) RW 10
+- [ ] (Nov 09) Recitation 10
+- [ ] (Nov 12) W 10.4
+- [ ] (Nov 15) W 10.5
+- [ ] (Nov 16) RW 11
+- [ ] (Nov 16) Recitation 11
+- [ ] (Nov 19) W 10.6-10.7
+- [ ] (Nov 22) W 10.8
+- [ ] (Nov 23) RW 12
+- [ ] (Nov 23) Recitation 12
+- [ ] (Nov 26) W 10.8
+- [ ] (Nov 30) RW 13
+- [ ] (Nov 30) Recitation 13
+- [ ] (Nov 33) W 14.1-14.2
+- [ ] (Dec 02) W 14.3
+- [ ] (Dec 02) **EXAM 3**
+- [ ] (??? ??) **FINAL**
+
+<u>ENGR 1100</u>
+- [ ] (Oct 18) ME 14
+- [ ] (Oct 20) **EXAM 2**
+- [ ] (Oct 21) ME 15
+- [ ] (Oct 25) ME 16
+- [ ] (Oct 28) ME 17
+- [ ] (Nov 01) ME 18
+- [ ] (Nov 04) ME 19
+- [ ] (Nov 08) ME 20
+- [ ] (Nov 11) ME 21
+- [ ] (Nov 15) ME 22
+- [ ] (Nov 17) **EXAM 3**
+- [ ] (Nov 18) ME 23
+- [ ] (Nov 22) ME 24
+- [ ] (Nov 25) ME 25
+- [ ] (Nov 29) ME 26
+- [ ] (Dec 02) ME 27
+- [ ] (Dec 06) ME 28
+- [ ] (Dec 09) ME 29
+- [ ] (??? ??) **FINAL**
+
+<u>IHSS 1200</u>
+- [ ] (Oct 17) HW 8
+- [ ] (Oct 17) HW 9
+- [ ] (Oct 17) HW 10
+- [ ] (Oct 17) RQ 8
+- [ ] (Oct 17) RQ 9
+- [ ] (Oct 17) RQ 10
+- [ ] (Oct 18) **EXAM 2**
+- [ ] (Dec 01) HASS ID 1
+- [ ] (Nov 07) HW 12
+- [ ] (Nov 07) HW 13
+- [ ] (Nov 07) HW 14
+- [ ] (Nov 07) HW  6
+- [ ] (Nov 07) RQ 12
+- [ ] (Nov 07) RQ 13
+- [ ] (Nov 07) RQ 14
+- [ ] (Nov 07) RQ 6
+- [ ] (Nov 07) **EXAM 3**
+- [ ] (Nov 22) HASS ID 2
+- [ ] (Dec 05) HW 15
+- [ ] (Dec 05) HW 16
+- [ ] (Dec 05) HW 17
+- [ ] (Dec 05) RQ 15
+- [ ] (Dec 05) RQ 16
+- [ ] (Dec 05) RQ 17
+- [ ] (Dec 06) **EXAM 4**
+- [ ] (Dec 09) **FINAL** (OPT.)
+
+<u>ENGR 1200</u>
+- [ ] (Oct 22) LN 8
+- [ ] (Oct 22) LA 8
+- [ ] (Oct 29) LN 9
+- [ ] (Oct 29) LA 9
+- [ ] (Oct 29) **ILA 3**
+- [ ] (Nov 05) LN 10
+- [ ] (Nov 05) LA 10
+- [ ] (Nov 12) LN 11
+- [ ] (Nov 12) LA 11
+- [ ] (Nov 19) LN 12 (OPT.)
+- [ ] (Nov 19) LA 12 (OPT.)
+- [ ] (Nov 19) **ILA 4**
+- [ ] (Nov 26) LN 13 (OPT.)
+- [ ] (Dec 04) **FINAL PROJECT**
+
+
+
+
+## Completed
+
+<u>PHYS 1100</u>
+- [x] (Oct 04) 6.58
+- [x] (Oct 04) Activity 10
+- [x] (Oct 04) MP 10
+- [x] (Oct 07) Activity 11
+- [x] (Oct 07) MP 11
+
+<u>MATH 1020</u>
+- [x] (Oct 04) Review: Parametric Equations
+- [x] (Oct 05) RW 5
+- [x] (Oct 05) Recitation 5
+- [x] (Oct 07) 7.46
+- [x] (Oct 07) W 11.3
+
+<u>ENGR 1100</u>
+- [x] (Oct 04) ME 10
+- [x] (Oct 04) Review Exam 1
+- [x] (Oct 05) Challenge Exam 1 Q2
+- [x] (Oct 05) Challenge Exam 1 Q3
+- [x] (Oct 04) Review HL Math
+- [x] (Oct 07) ME 11
+
+<u>IHSS 1200</u>
+
+<u>ENGR 1200</u>
+- [x] (Oct 01) LN 5
+- [x] (Oct 08) LA 6
+- [x] (Oct 08) **ILA 2**

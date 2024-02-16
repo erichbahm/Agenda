@@ -1,0 +1,276 @@
+<u>CHEM 1100</u>
+
+- [x] (Jan 10) *Ch 1*
+- [x] (Jan 10) *Ch 2 (1-7)*
+- [x] (Jan 13) PrLa 1
+- [x] (Jan 16) PrLe 3A
+- [x] (Jan 20) PoLa 1
+- [x] (Jan 20) PrLa 2
+- [x] (Jan 23) PrLe 3B
+- [x] (Jan 24) *Ch 2 (8-14)*
+- [x] (Jan 27) PoLa 2
+- [x] (Jan 27) PrLa 3
+- [x] (Jan 30) PrLe 4
+- [x] (Jan 30) HW 3A
+- [x] (Jan 31) *Ch 3*
+- [x] (Jan 31) *Ch 4 (1-7)*
+- [x] (Feb 03) PoLa 3
+- [x] (Feb 03) PrLa 4
+- [x] (Feb 04) HW 3B
+- [x] (Feb 06) PrLe 5
+- [x] (Feb 09) HW 4
+- [x] (Feb 10) PoLa 4
+- [x] (Feb 10) PrLa 5
+- [x] (Feb 13) HW 5
+- [x] (Feb 14) **Exam 1**
+- [ ] (Feb 14) *Ch 4 (8-12)*
+- [x] (Feb 17) PoLa 5
+- [x] (Feb 20) PLe 21, Biochem
+- [ ] (Feb 21) *Ch 19*
+- [ ] (Feb 21) *Ch 20*
+- [x] (Feb 24) PrLa 6
+- [x] (Feb 27) HW 21, Biochem
+- [x] (Mar 03) PoLa 6
+- [x] (Mar 03) PrLa 7
+- [x] (Mar 10) PoLa 7
+- [x] (Mar 13) PLe 8, 14.1, 14.2
+- [x] (Mar 14) *Ch 13*
+- [x] (Mar 14) *Ch 15*
+- [x] (Mar 17) PrLa 8
+- [x] (Apr 18) *University Ch 20*
+- [x] (Mar 20) PrLe 7, 16.1
+- [x] (Mar 21) **Exam 2**
+- [x] (Mar 24) PoLa 8
+- [x] (Mar 24) PrLa 9
+- [x] (Mar 27) ~~Send email about Chem Test misgrade (19)~~
+- [x] (Mar 27) PrLe 8
+- [x] (Mar 27) HW 14.1, 14.2
+- [x] (Mar 28) *Ch 5*
+- [x] (Mar 29) Send email about Chem Lab Grades - Esters, Peaks
+- [x] (Mar 31) PoLa 9
+- [x] (Mar 31) PrLa 10
+- [x] (Mar 31) Send Post Lab 5 Answers -> Dr. Morissey
+- [x] (Apr 03) PrLe 13, 14.3
+- [x] (Apr 03) HW 16.1, 8
+- [x] (Apr 04) *Ch 11*
+- [x] (Apr 04) *Ch 12*
+- [x] (Apr 07) PoLa 10
+- [x] (Apr 10) HW 13
+- [x] (Apr 14) PrLa 11
+- [x] (Apr 17) PrLe 9
+- [x] (Apr 18) **Exam 3**
+- [x] (Apr 18) *Ch 8*
+- [x] (Apr 18) *Ch 9*
+- [x] (Apr 18) *University Ch 17*
+- [x] (Apr 18) *University Ch 18*
+- [x] (Apr 18) *University Ch 19*
+- [x] (Apr 21) PoLa 11
+- [x] (Apr 24) HW 14.3, 9
+- [x] (May 03) Take Lab Simulations Quiz
+- [x] (May 03) **FINAL EXAM** [11:30-2:30]
+
+<u>PHYS 1200</u>
+
+- [x] (Jan 14) Lab 21A, 21B
+- [x] (Jan 13) MP 1
+- [x] (Jan 13) Q 1
+- [x] (Jan 14) Lab 21C, 21D
+- [x] (Jan 20) *Ch 22*
+- [x] (Jan 20) MP 2
+- [x] (Jan 20) Q 2
+- [x] (Jan 21) Lab 22A, 22B
+- [x] (Jan 24) *Ch 23*
+- [x] (Jan 24) MP 3
+- [x] (Jan 24) Q 3
+- [x] (Jan 25) Lab 23A, 23B, 23C
+- [x] (Jan 27) *Ch 24 (1-4)*
+- [x] (Jan 27) MP 4
+- [x] (Jan 27) Q 4
+- [x] (Jan 28) Lab 24A, 24B, 24C, 24D
+- [x] (Jan 31) *Ch 25 (1-3, 6)*
+- [x] (Jan 31) MP 5
+- [x] (Jan 31) Q 5
+- [x] (Feb 01) Lab 25A, 25B, 25C, 25D
+- [x] (Feb 03) *Ch 25 (4-5)*
+- [x] (Feb 03) MP 6
+- [x] (Feb 03) Q 6
+- [x] (Feb 04) Lab 25E, 25F, 26A
+- [x] (Feb 07) *Ch 26 (1-2)*
+- [x] (Feb 07) MP 7
+- [x] (Feb 07) Q 7
+- [x] (Feb 08) Lab 26C, 26D, 26E
+- [x] (Feb 10) *Ch 27 (2-8)*
+- [x] (Feb 10) MP 8
+- [x] (Feb 10) Q 8
+- [x] (Feb 11) Lab 27A, 27B, 27C
+- [x] (Feb 14) MP 9
+- [x] (Feb 16) **Exam 1**
+- [x] (Feb 17) *Ch 28 (1-2, 5, 8)*
+- [x] (Feb 17) Q 9
+- [x] (Feb 18) Lab 28A, 28B, 28C
+- [x] (Feb 24) *Ch 28 (4, 6-7)*
+- [x] (Feb 24) MP 10
+- [x] (Feb 24) Q 10
+- [x] (Feb 25) Lab 28E
+- [x] (Feb 28) *Ch 29 (1-7)*
+- [x] (Feb 28) MP 11
+- [x] (Feb 28) Q 11
+- [x] (Mar 01) Lab 29A, 29B, 29C
+- [x] (Mar 03) *Ch 30 (1-3)*
+- [x] (Mar 03) MP 12
+- [x] (Mar 03) Q 12
+- [x] (Mar 04) Lab 30A, 30B, 30C
+- [x] (Mar 14) *Ch 26 (4)*
+- [x] (Mar 14) *Ch 30 (4-6)*
+- [x] (Mar 14) MP 13
+- [x] (Mar 14) Q 13
+- [x] (Mar 15) Lab 30D
+- [x] (Mar 16) *Ch 31*
+- [x] (Mar 17) MP 14
+- [x] (Mar 17) Q 14
+- [x] (Mar 18) Lab 31A, 31B
+- [x] (Mar 21) *Ch 32 (1-4)*
+- [x] (Mar 21) MP 15
+- [x] (Mar 21) Q 15
+- [x] (Mar 22) Lab 32A
+- [x] (Mar 24) *Ch 33 (1, 5, 7)*
+- [x] (Mar 24) MP 16
+- [x] (Mar 24) Q 16
+- [x] (Mar 25) Lab 32B
+- [x] (Mar 28) MP 17
+- [x] (Mar 30) **Exam 2**
+- [x] (Mar 31) *Ch 35 (1-3, 5)*
+- [x] (Mar 31) *Ch 36 (5)*
+- [x] (Mar 31) Q 17
+- [x] (Apr 01) Lab 35A, 35B
+- [x] (Apr 04) *Ch 36 (1-4)*
+- [x] (Apr 04) MP 18
+- [x] (Apr 04) Q 18
+- [x] (Apr 05) Lab 36A, 36B, 36C
+- [x] (Apr 07) *Ch 37 (1-4, 7-8)*
+- [x] (Apr 07) MP 19
+- [x] (Apr 07) Q 19
+- [x] (Apr 08) Lab 37A, 37B
+- [x] (Apr 11) *Ch 37 (7-8)*
+- [x] (Apr 11) *Ch 43 (6, 8)*
+- [x] (Apr 11) MP 20
+- [x] (Apr 11) Q 20
+- [x] (Apr 12) Lab 37B, 37C
+- [x] (Apr 14) *Ch 38 (1-3)*
+- [x] (Apr 14) MP 21
+- [x] (Apr 14) Q 21
+- [x] (Apr 15) Lab 38A, 38B, 38C
+- [x] (Apr 18) MP 22
+- [x] (Apr 20) **Exam 3**
+- [x] (Apr 21) *Ch 38 (4)*
+- [x] (Apr 21) *Ch 39 (1)*
+- [x] (Apr 21) Q 22
+- [x] (Apr 22) Lab 39A
+- [x] (Apr 25) *Ch 39 (6)*
+- [x] (Apr 25) *Ch 40 (1)*
+- [x] (Apr 25) *Atkins Ch 1*
+- [x] (Apr 25) *Atkins Ch 2*
+- [x] (Apr 25) MP 23
+- [x] (Apr 25) Q 23
+- [x] (Apr 26) Lab 39B, 39C
+- [x] (May 05) **FINAL EXAM** [8:00-11:00]
+
+<u>ENGR 2090</u>
+
+- [x] (Jan 11) *HW Ch 2 (1-2)*
+- [x] (Jan 14) *HW Ch 2 (3-4)*
+- [x] (Jan 18) *HW Ch 2 (5-6)*
+- [x] (Jan 21) *HW Ch 2 (8-9)*
+- [x] (Jan 25) Quiz 1
+- [x] (Jan 25) *HW Ch 3 (1-4)*
+- [x] (Jan 28) *HW Ch 3 (5)*
+- [x] (Feb 01) *HW Ch 3 (6)*
+- [x] (Feb 01) Quiz 2
+- [x] (Feb 08) **Exam 1**
+- [x] (Feb 08) *HW Ch 3 (7)*
+- [x] (Feb 11) *HW Ch 3 (8-9)*
+- [x] (Feb 15) *HW Ch 3 (10-12)*
+- [x] (Feb 25) *HW Ch 4 (1-5)*
+- [x] (Mar 01) Quiz 3
+- [x] (Mar 01) *HW Ch 5 (1-3)*
+- [x] (Mar 04) *HW Ch 5 (4)*
+- [x] (Mar 15) **Exam 2**
+- [x] (Mar 18) *HW Ch 5 (6)*
+- [x] (Mar 22) *HW Ch 5 (7)*
+- [x] (Mar 22) Quiz 4
+- [x] (Mar 25) *HW Ch 6 (1-3)*
+- [x] (Mar 29) *HW Ch 6 (4)*
+- [x] (Mar 29) Quiz 5
+- [x] (Apr 01) *HW Ch 6 (5)*
+- [x] (Apr 05) Quiz 6
+- [x] (Apr 05) *HW Ch 6 (6)*
+- [x] (Apr 08) *HW Ch 6 (8)*
+- [x] (Apr 08) **Exam 3**
+- [x] (Apr 15) || Quiz 7
+- [x] (Apr 15) *HW Ch 7 (1-6)*
+- [x] (Apr 19) *HW Ch 7 (7-8)*
+- [x] (Apr 22) || Quiz 8
+- [x] (Apr 22) *HW Ch 7 (9-10)*
+- [x] (Apr 26) *HW Ch 7 (11)*
+- [x] (Apr 26) || Quiz 9
+- [x] (May 04) **FINAL EXAM** [11:30-2:30]
+
+<u>MATH 2400</u>
+
+- [x] (Jan 25) HW 1
+- [x] (Jan 31) Quiz 1
+- [x] (Feb 03) HW 2
+- [x] (Feb 07) Quiz 2
+- [x] (Feb 08)  HW 3
+- [x] (Feb 11) **Exam 1**
+- [x] (Feb 18) Ask about Quiz 2
+- [x] (Feb 19) Send email about Quiz 2
+- [x] (Feb 22) Quiz 3
+- [x] (Feb 24) Do math on Exam Questions
+- [x] (Feb 24) HW 4
+- [x] (Feb 25) Send email about HW 2
+- [x] (Mar 02) Ask for more credit on Exam 1
+- [x] (Mar 04) HW 5
+- [x] (Mar 23) HW 6
+- [x] (Mar 25) Quiz 4
+- [x] (Mar 29) **Exam 2**
+- [x] (Apr 15) Quiz 5
+- [x] (Apr 17) || HW 7
+- [x] (Apr 22) || Quiz 6
+- [x] (Apr 24) || HW 8
+- [x] (Apr 29) || Quiz 7
+- [x] (Apr 31) || HW 9
+- [x] (Apr 26) **Exam 3**
+- [x] (May 02) **FINAL EXAM** [3:00-6:00]
+
+<u>ECON 2020</u>
+
+- [x] (Feb 06) PS 1
+- [x] (Feb 08) **Q 1**
+- [x] (Feb 27) **Q 2**
+- [x] (Feb 27) PS 2
+- [x] (Mar 04) **Midterm Exam**
+- [x] (Apr 07) Email Professor about Q 3
+- [x] (Apr 08) **Q 3**
+- [x] (Apr 15) PS 3
+- [x] (Apr 22) || **Q 4**
+- [x] (Apr 24) || PS 4
+- [x] (Apr 29) **FINAL EXAM**
+
+<u>ENGR 1300</u>
+
+- [x] (Jan 16) *IR*
+- [x] (Jan 19) *Layout*
+- [x] (Jan 26) **Lab 1**
+- [x] (Feb 02) *L/M 1*
+- [x] (Feb 09) *L/M 2*
+- [x] (Feb 16) *L/M 3*
+- [x] (Feb 23) *L/M 4*
+- [x] (Mar 02) **Lab 2**
+- [x] (Mar 16) **Lab 3**
+- [x] (Mar 30) **Lab 4**
+- [x] (Apr 06) *VM 1*
+- [x] (Apr 13) *VM 2*
+- [x] (Apr 20) *VM 3*
+- [x] (Apr 22) **FINAL REPORT**
+- [x] (Apr 22) **FINAL EXAM**
