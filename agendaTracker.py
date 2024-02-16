@@ -1,10 +1,9 @@
-# Import necessary modules
+# Imports
 import os
 from datetime import date
 
 
-#Define Variables
-# currentDate = 0
+# Define Variables
 feMdFileName = ''
 beMdFileNames = []
 agendaFileExists = 0
@@ -27,7 +26,6 @@ def dateToNum(someDate):
     if mth in months:
         numDate = int(someDate[len(someDate)-2:len(someDate)]) + months[mth]
     else:
-        #print('An error has occurred while converting the date to a number')
         numDate = 999
     return numDate
 
@@ -110,4 +108,3 @@ def assembleAgendaFile(someNameLst):
 currentDate = dateToNum(str(date.today()).replace('-', '')[4:8])
 defineDirFiles()
 assembleAgendaFile(beMdFileNames)
-# os.system(feMdFileName)
