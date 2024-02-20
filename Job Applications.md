@@ -8,7 +8,6 @@
 - [ ] () GitHub deep fixes
 - [ ] () Handshake rewrite
 - [ ] () Linkedin rewrite
-- [ ] (Feb 15) Message Connor
 - [ ] (Feb 18) Portfolio update
 - [ ] (Feb 19) **Amazon Interview**
 - [ ] (Feb 26) **NASA Pathways**

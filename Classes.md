@@ -99,8 +99,8 @@
 - [x] (Feb 12) Quiz 10
 - [x] (Feb 13) ICE 10
 - [x] (Feb 15) Quiz 11
-- [ ] (Feb 16) ICE 11
-- [ ] (Feb 16) HW 5
+- [x] (Feb 16) ICE 11
+- [x] (Feb 16) HW 5
 - [ ] (Feb 22) Quiz 12
 - [ ] (Feb 23) ICE 12
 - [ ] (Feb 27) ICE 13
