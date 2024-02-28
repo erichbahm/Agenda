@@ -8,6 +8,6 @@
 - [ ] () GitHub deep fixes
 - [ ] () Handshake rewrite
 - [ ] () Linkedin rewrite
-- [ ] (Feb 18) Portfolio update
-- [ ] (Feb 19) **Amazon Interview**
-- [ ] (Feb 26) **NASA Pathways**
+- [ ] () Portfolio update
+- [x] (Feb 19) **Amazon Interview**
+- [x] (Feb 19) **SpaceX Interview**

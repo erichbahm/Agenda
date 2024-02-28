@@ -8,7 +8,7 @@
 - [x] (Feb 05) GP Topic
 - [x] (Feb 12) WRR 4
 - [x] (Feb 12) RP Outline
-- [ ] (Feb 20) WRR 5
+- [x] (Feb 20) WRR 5
 - [ ] (Feb 26) **RP Draft 1**
 - [ ] (Mar 11) WRR 6
 - [ ] (Mar 11) Peer Review
@@ -29,12 +29,11 @@
 - [x] (Feb 01) HW 3
 - [x] (Feb 08) HW 4
 - [x] (Feb 15) **Exam 1**
-- [ ] (Feb 22) HW 5
-- [ ] (Feb 29) HW 6
-- [ ] (Mar 07) HW 7
-- [ ] (Mar 14) HW 8
-- [ ] (Mar 21) HW 9
-- [ ] (Mar 28) HW 10
+- [x] (Feb 29) HW 5
+- [ ] (Mar 07) HW 6
+- [ ] (Mar 14) HW 7
+- [ ] (Mar 21) HW 8
+- [ ] (Mar 28) HW 9
 - [ ] (Apr 04) **Exam 2** 
 - [ ] (May 02) **FINAL EXAM**
 
@@ -51,8 +50,8 @@
 - [x] (Feb 08) HW 4
 - [x] (Feb 12) L10
 - [x] (Feb 15) **Exam 1**
-- [ ] (Feb 22) L11
-- [ ] (Feb 26) L12
+- [x] (Feb 26) Exam question
+- [x] (Feb 26) L12
 - [ ] (Feb 29) L13
 - [ ] (Feb 29) HW 5
 - [ ] (Mar 11) L14
@@ -101,11 +100,11 @@
 - [x] (Feb 15) Quiz 11
 - [x] (Feb 16) ICE 11
 - [x] (Feb 16) HW 5
-- [ ] (Feb 22) Quiz 12
-- [ ] (Feb 23) ICE 12
-- [ ] (Feb 27) ICE 13
-- [ ] (Feb 27) HW 6
-- [ ] (Feb 29) Quiz 13
+- [x] (Feb 22) Quiz 12
+- [x] (Feb 23) ICE 12
+- [x] (Feb 27) ICE 13
+- [x] (Feb 27) HW 6
+- [x] (Feb 29) Quiz 13
 - [ ] (Mar 01) ICE 14
 - [ ] (Mar 11) Quiz 14
 - [ ] (Mar 12) ICE 15
@@ -135,6 +134,13 @@
 
 <u>CSCI 4970</u>
 
+- [x] (Feb 23) Status update 4
+- [ ] (Mar 08) Status update 5
+- [ ] (Mar 15) Status update 6
+- [ ] (Mar 22) Status update 7
+- [ ] (Mar 29) Status update 8
+- [ ] (Apr 05) Status update 9
+- [ ] (Apr 12) Status update 10
 - [ ] (Apr 08) **FINAL PRES**
 
 <u>MANE 4040</u>
@@ -144,7 +150,7 @@
 - [x] (Jan 31) Lab 1
 - [x] (Feb 07) HW 3
 - [x] (Feb 14) Lab 2
-- [ ] (Feb 21) HW 4
+- [x] (Feb 21) HW 4
 - [ ] (Feb 28) Lab 3
 - [ ] (Mar 06) HW 5
 - [ ] (Mar 13) **Quiz 1**

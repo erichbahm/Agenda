@@ -9,7 +9,7 @@
 - https://collegeonlinegrantsandscholarships.com/
 - https://www.sae.org/participate/scholarships
 - [x] (Feb 04) FAFSA
-- [ ] () Financial Aid Appeal
+- [ ] (Mar 08) Financial Aid Appeal
 - [x] (Aug 01) PCB https://pcb-solutions.com/scholarship/
 - [x] (Aug 05) Smart Rain https://smartrain.net/scholarship-apply-today/
 - [x] (Nov 15) NASA https://www.spaceclub.org/scholarship/index.html
@@ -20,10 +20,8 @@
 - [x] (Feb 01) LM https://www.lockheedmartin.com/scholarship
 - [x] (Feb 01) SEMA https://sites.sema.org/scholarships/
 - [x] (Feb 01) VFF https://vtol.org/education/vertical-flight-foundation-scholarships/vff-scholarship-application-process#process
-- [ ] (Feb 17) **Letter of Rec professor?**
-- [ ] () Reach out to Dean
-- [ ] (Mar 01) **SAME** http://www.samesacramento.org/committees_scholarship.shtml
-- [ ] (Mar 31) ASF https://www.astronautscholarship.org/scholarshipprogram.html (if have 2 recs)
-- [ ] (Apr 01) Steimman https://www.nspe.org/resources/students/scholarships/steinman-scholarship (2 recs)
-- [ ] (Apr 20) **CFT** https://www.cft.org/scholarships
+- [x] (Mar 01) **SAME** http://www.samesacramento.org/committees_scholarship.shtml
+- [x] (Mar 31) ASF https://www.astronautscholarship.org/scholarshipprogram.html (if have 2 recs)
+- [x] (Apr 01) Steimman https://www.nspe.org/resources/students/scholarships/steinman-scholarship (2 recs)
+- [x] (Apr 20) **CFT** https://www.cft.org/scholarships (2 recs)
 

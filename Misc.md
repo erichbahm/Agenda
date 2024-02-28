@@ -11,5 +11,9 @@
 <u>Miscellaneous</u>
 
 - [ ] () Passport
-- [ ] (Feb 16) File Allstate claim + call
+- [ ] () Agenda auto-commit
+- [ ] (Mar 06) Research Plan
+- [ ] (Feb 28) **Cancel Linkedin Premium**
+- [ ] (Mar 03) 2023 Taxes
+- [ ] (Mar 18) **Class Registration**
 - [ ] (Apr 10) IBM Research?

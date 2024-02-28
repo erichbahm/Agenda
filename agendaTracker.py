@@ -97,9 +97,13 @@ def categorizeAllContent(someLstOfLst):
 def assembleAgendaFile(someNameLst):
     collectMdContent(someNameLst)
     categorizeAllContent(allFilesContent)
+    firstLine = True
     if agendaFileExists:
         agendaFileWrite = open(feMdFileName, 'w')
         for c in sortedFilesContent:
+            if firstLine:
+                firstLine = False
+                continue
             agendaFileWrite.write(c)
         agendaFileWrite.close()
 
