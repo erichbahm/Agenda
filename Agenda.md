@@ -9,8 +9,13 @@
 - [ ] (Feb 28) [^==**MANE 4040**==] Lab 3
 - [ ] (Mar 06) [^MANE 4040] HW 5
 
+## Job Applications
+
+- [ ] (Mar 04) [^General] **Stryker Interview**
+
 ## Misc
 
 - [ ] (Mar 06) [^Miscellaneous] Research Plan
 - [ ] (Feb 28) [^==**Miscellaneous**==] **Cancel Linkedin Premium**
 - [ ] (Mar 03) [^Miscellaneous] 2023 Taxes
+- [ ] (Mar 01) [^==Miscellaneous==] Read Sci Oly rules

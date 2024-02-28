@@ -15,5 +15,6 @@
 - [ ] (Mar 06) Research Plan
 - [ ] (Feb 28) **Cancel Linkedin Premium**
 - [ ] (Mar 03) 2023 Taxes
+- [ ] (Mar 01) Read Sci Oly rules
 - [ ] (Mar 18) **Class Registration**
 - [ ] (Apr 10) IBM Research?
