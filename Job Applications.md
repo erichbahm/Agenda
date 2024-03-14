@@ -11,4 +11,4 @@
 - [ ] () Portfolio update
 - [x] (Feb 19) **Amazon Interview**
 - [x] (Feb 19) **SpaceX Interview**
-- [ ] (Mar 04) **Stryker Interview**
+- [x] (Mar 04) **Stryker Interview**

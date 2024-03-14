@@ -7,14 +7,16 @@
 - [ ] () New socks
 - [ ] () New underwear
 - [ ] () Fitted suit
+- [ ] () Clothes Hanger
+- [ ] () Laptop
 
 <u>Miscellaneous</u>
 
 - [ ] () Passport
 - [ ] () Agenda auto-commit
-- [ ] (Mar 06) Research Plan
-- [ ] (Feb 28) **Cancel Linkedin Premium**
-- [ ] (Mar 03) 2023 Taxes
-- [ ] (Mar 01) Read Sci Oly rules
-- [ ] (Mar 18) **Class Registration**
+- [x] (Mar 06) Message Aeros
+- [x] (Mar 06) Schedule SAM meeting
+- [ ] (Mar 16) 2023 Taxes
+- [ ] (Mar 21) **Class Registration**
 - [ ] (Apr 10) IBM Research?
+- [ ] () Financial Aid Appeal

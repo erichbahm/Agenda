@@ -9,14 +9,15 @@
 - [x] (Feb 12) WRR 4
 - [x] (Feb 12) RP Outline
 - [x] (Feb 20) WRR 5
-- [ ] (Feb 26) **RP Draft 1**
-- [ ] (Mar 11) WRR 6
-- [ ] (Mar 11) Peer Review
-- [ ] (Mar 18) WRR 7
-- [ ] (Mar 18) **GP FINAL**
+- [x] (Feb 26) **RP Draft 1**
+- [x] (Mar 11) WRR 6
+- [x] (Mar 11) Peer Review
+- [x] (Mar 18) WRR 7
 - [ ] (Mar 25) WRR 8
 - [ ] (Mar 25) **RP Draft 2**
+- [ ] (Mar 28) Slides Due
 - [ ] (Apr 01) WRR 9
+- [ ] (Apr 08) **Group Presentation**
 - [ ] (Apr 08) WRR 10
 - [ ] (Apr 15) WRR 11
 - [ ] (Apr 15) **RP FINAL**
@@ -30,11 +31,12 @@
 - [x] (Feb 08) HW 4
 - [x] (Feb 15) **Exam 1**
 - [x] (Feb 29) HW 5
-- [ ] (Mar 07) HW 6
-- [ ] (Mar 14) HW 7
-- [ ] (Mar 21) HW 8
-- [ ] (Mar 28) HW 9
-- [ ] (Apr 04) **Exam 2** 
+- [x] (Mar 14) HW 6
+- [ ] (Mar 21) HW 7
+- [ ] (Mar 28) HW 8
+- [ ] (Apr 04) **Exam 2**
+- [ ] (Apr 11) HW 9
+- [ ] (Apr 18) HW 10
 - [ ] (May 02) **FINAL EXAM**
 
 <u>MANE 4500</u>
@@ -52,11 +54,10 @@
 - [x] (Feb 15) **Exam 1**
 - [x] (Feb 26) Exam question
 - [x] (Feb 26) L12
-- [ ] (Feb 29) L13
-- [ ] (Feb 29) HW 5
-- [ ] (Mar 11) L14
+- [x] (Feb 29) HW 5
+- [x] (Mar 11) L14
 - [ ] (Mar 14) L15
-- [ ] (Mar 14) HW 6
+- [x] (Mar 14) HW 6
 - [ ] (Mar 18) L16
 - [ ] (Mar 21) HW 7
 - [ ] (Mar 25) **Exam 2**
@@ -105,16 +106,16 @@
 - [x] (Feb 27) ICE 13
 - [x] (Feb 27) HW 6
 - [x] (Feb 29) Quiz 13
-- [ ] (Mar 01) ICE 14
-- [ ] (Mar 11) Quiz 14
-- [ ] (Mar 12) ICE 15
-- [ ] (Mar 12) HW 7
-- [ ] (Mar 14) Quiz 15
+- [x] (Mar 01) ICE 14
+- [x] (Mar 11) Quiz 14
+- [x] (Mar 12) ICE 15
+- [x] (Mar 12) HW 7
+- [x] (Mar 14) Quiz 15
 - [ ] (Mar 15) ICE 16
 - [ ] (Mar 19) ICE 17
 - [ ] (Mar 19) HW 8
 - [ ] (Mar 22) **Exam 2**
-- [ ] (Mar 25) Quiz 16
+- [x] (Mar 25) Quiz 16
 - [ ] (Mar 26) ICE 18
 - [ ] (Mar 28) Quiz 17
 - [ ] (Mar 29) ICE 19
@@ -135,7 +136,7 @@
 <u>CSCI 4970</u>
 
 - [x] (Feb 23) Status update 4
-- [ ] (Mar 08) Status update 5
+- [x] (Mar 01) Status update 5
 - [ ] (Mar 15) Status update 6
 - [ ] (Mar 22) Status update 7
 - [ ] (Mar 29) Status update 8
@@ -151,9 +152,9 @@
 - [x] (Feb 07) HW 3
 - [x] (Feb 14) Lab 2
 - [x] (Feb 21) HW 4
-- [ ] (Feb 28) Lab 3
-- [ ] (Mar 06) HW 5
-- [ ] (Mar 13) **Quiz 1**
+- [x] (Feb 28) Lab 3
+- [x] (Mar 13) HW 5
+- [x] (Mar 13) **Quiz 1**
 - [ ] (Mar 27) Lab 4
 - [ ] (Apr 06) HW 6
 - [ ] (Apr 10) Lab 5

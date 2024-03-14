@@ -9,7 +9,6 @@
 - https://collegeonlinegrantsandscholarships.com/
 - https://www.sae.org/participate/scholarships
 - [x] (Feb 04) FAFSA
-- [ ] (Mar 08) Financial Aid Appeal
 - [x] (Aug 01) PCB https://pcb-solutions.com/scholarship/
 - [x] (Aug 05) Smart Rain https://smartrain.net/scholarship-apply-today/
 - [x] (Nov 15) NASA https://www.spaceclub.org/scholarship/index.html
