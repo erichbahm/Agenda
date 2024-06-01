@@ -58,12 +58,14 @@ def categorizeLine(someStr, mdNum):
             days = numDaysShown + 7 * 2
         if dateSlice <= currentDate + int(days) and dateSlice >= currentDate - 14:
             if len(someStr) > 15:
+                if False:
+                    return
                 if someStr[15] == '*' and someStr[16] != '*':
                     return
                 else:
                     if dateToNum(someStr[7:13]) <= currentDate:
                         strToAppend = someStr[:14] + ' [^==**' + currentCategory + '**==] ' + someStr[15:]
-                    elif dateToNum(someStr[7:13]) <= currentDate + 2:
+                    elif dateToNum(someStr[7:13]) <= currentDate + 1:
                         strToAppend = someStr[:14] + ' [^==' + currentCategory + '==] ' + someStr[15:]
                     else:
                         strToAppend = someStr[:14] + ' [^' + currentCategory + '] ' + someStr[15:]

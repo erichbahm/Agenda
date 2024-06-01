@@ -12,11 +12,10 @@
 
 <u>Miscellaneous</u>
 
-- [ ] () Passport
 - [ ] () Agenda auto-commit
-- [x] (Mar 06) Message Aeros
-- [x] (Mar 06) Schedule SAM meeting
-- [ ] (Mar 16) 2023 Taxes
-- [ ] (Mar 21) **Class Registration**
-- [ ] (Apr 10) IBM Research?
+- [x] (Apr 20) Call Aeros?
+- [x] (Apr 19) Amazon PTO
+- [x] (Apr 15) **2023 TAXES**
+- [x] (Mar 21) **Class Registration**
+- [ ] (May 24) IBM Research?
 - [ ] () Financial Aid Appeal
